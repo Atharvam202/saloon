@@ -1,0 +1,99 @@
+.first {
+    display: flex;
+    gap: 150px;
+    color: azure;
+    background-color: gray;
+    height: 65px;
+}
+.icon_container {
+    display: flex;
+    gap: 20px;
+}
+.login {
+    font-size: 12px;
+    margin-left: 100px;
+    
+    
+}
+.address {
+    font-size: 12px;
+    margin-top: 5px;
+}
+.products {
+    font-size: 18px;
+    margin-bottom: 15px;
+    
+}
+.social h3 {
+    font-size: 12px;
+    margin-left: 50px;
+}
+.icon i {
+    height:30px ;
+    width:30px ;
+    color: black;
+}
+.logo img {
+    height: 50px;
+    width: 120px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.second {
+    display: flex;
+    gap: 50px;
+    color: black;
+
+}
+.search {
+    margin-top: 20px;  
+    width: 200px;
+}
+.search input {
+    width: 200px;
+    height: 30px;
+    border-radius: 12px;
+    margin: 0 16px 0 56px;
+    padding: 0 12px;
+}
+.components {
+    display: flex;
+    gap: 100px;
+    margin-top: 10px;
+    margin-left: 80px;
+    font-size: 18px;
+}
+.image img {
+    height: 400px;
+    width: 1140px;
+}
+.third {
+    display: flex;
+    gap: 30px;
+}
+.special {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.house {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.hours {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.book h1{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 500px;
+    width: 100px;
+    color: azure;
+    background-color: rgb(0, 228, 0);
+    border-radius: 12px;
+}
+.book h1:hover{
+    color: black;
+    background-color: azure;
+    cursor: pointer;
+}
